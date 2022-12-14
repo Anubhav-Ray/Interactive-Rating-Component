@@ -15,7 +15,7 @@ Users should be able to:
 
 - Unselected State
   <img  src="./Screenshot Unselected.png" alt="Unselected State">
-  -Selected State
+- Selected State
   <img  src="./Screenshot Selected.png" alt="Selected State">
 
 ### Links
