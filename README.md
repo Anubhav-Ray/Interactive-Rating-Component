@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Anubhav-Ray/Interactive-Rating-Component)
-- Live Site URL: [Add live site URL here](https://anubhav-ray.github.io/Interactive-Rating-Component/)
+- Solution URL: (https://github.com/Anubhav-Ray/Interactive-Rating-Component)
+- Live Site URL: (https://anubhav-ray.github.io/Interactive-Rating-Component/)
 
 ## My process
 
