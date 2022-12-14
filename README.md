@@ -14,7 +14,7 @@ Users should be able to:
 ### Screenshot
 
 - Unselected State
-  <img  src="./Screenshot Unelected.png" alt="Unselected State">
+  <img  src="./Screenshot Unselected.png" alt="Unselected State">
   -Selected State
   <img  src="./Screenshot Selected.png" alt="Selected State">
 
@@ -36,7 +36,7 @@ I first focused on implementing structure and deign to both Selected and Unselec
 
 ### What I learned
 
--This Project helped me in reinforcing my knowledge of JavaScript and also helped me in understanding how to work with hidden elements.It also helped me in understanding how to use event handlers in storing the user choice and display the required message to user.
+- This Project helped me in reinforcing my knowledge of JavaScript and also helped me in understanding how to work with hidden elements.It also helped me in understanding how to use event handlers in storing the user choice and display the required message to user.
 
 - I also learned how to give background circle to numbers.
 
