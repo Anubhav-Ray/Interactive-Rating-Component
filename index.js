@@ -1,11 +1,19 @@
 "use strict";
-const list = document.querySelectorAll("li");
+const list = document.querySelectorAll(".circle");
 const submit = document.querySelector(".btn1");
 let selectEl;
 // Selecting the Rating
 for (let i = 0; i < list.length; i++) {
   list[i].addEventListener("click", function (event) {
-    list[i].classList.toggle("clicked");
+   for (let j = 0; j < list.length; j++) {
+     if(i!==j)
+     {
+       list[j].classList.remove("clicked");
+     }
+   }
+    list[i].classList.add("clicked");
+
+
     selectEl = event.target;
   });
 }
